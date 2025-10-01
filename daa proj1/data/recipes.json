@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Pasta Carbonara",
+    "ingredients": ["pasta", "eggs", "bacon", "cheese", "pepper"],
+    "instructions": "Cook pasta, mix with eggs, bacon, cheese."
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "ingredients": ["chicken", "vegetables", "soy sauce", "rice"],
+    "instructions": "Stir fry chicken and veggies, serve with rice."
+  },
+  {
+    "name": "Vegetable Soup",
+    "ingredients": ["carrots", "potatoes", "onions", "broth"],
+    "instructions": "Boil veggies in broth."
+  },
+  {
+    "name": "Palak Paneer",
+    "ingredients": ["paneer", "spinach", "onions", "tomatoes", "garlic", "ginger", "spices"],
+    "instructions": "Cook spinach puree with onions, tomatoes, and add paneer cubes."
+  },
+  {
+    "name": "Butter Chicken",
+    "ingredients": ["chicken", "butter", "cream", "tomatoes", "garam masala", "yogurt"],
+    "instructions": "Marinate and grill chicken, simmer in creamy tomato sauce."
+  },
+  {
+    "name": "Aloo Gobi",
+    "ingredients": ["potatoes", "cauliflower", "onions", "turmeric", "cumin", "coriander"],
+    "instructions": "Stir-fry potatoes and cauliflower with spices until tender."
+  },
+  {
+    "name": "Dal Tadka",
+    "ingredients": ["lentils", "onions", "tomatoes", "garlic", "ginger", "cumin seeds"],
+    "instructions": "Cook lentils, temper with onions, tomatoes, and spices."
+  },
+  {
+    "name": "Chicken Biryani",
+    "ingredients": ["chicken", "basmati rice", "yogurt", "onions", "saffron", "spices"],
+    "instructions": "Layer marinated chicken and rice, cook with aromatic spices."
+  },
+  {
+    "name": "Rogan Josh",
+    "ingredients": ["lamb", "yogurt", "onions", "fennel", "cardamom", "ginger"],
+    "instructions": "Slow-cook lamb in yogurt-based spice gravy."
+  },
+  {
+    "name": "Gulab Jamun",
+    "ingredients": ["milk powder", "sugar", "ghee", "cardamom", "rose water"],
+    "instructions": "Fry dough balls and soak in sugar syrup."
+  },
+  {
+    "name": "Samosa",
+    "ingredients": ["potatoes", "peas", "flour", "cumin", "coriander", "oil"],
+    "instructions": "Fill pastry with spiced potato-pea mix and deep-fry."
+  },
+  {
+    "name": "Idli",
+    "ingredients": ["rice", "urad dal", "fenugreek seeds", "salt"],
+    "instructions": "Ferment batter and steam into soft cakes."
+  },
+  {
+    "name": "Dosa",
+    "ingredients": ["rice", "urad dal", "salt", "oil"],
+    "instructions": "Spread fermented batter on hot griddle and cook."
+  },
+  {
+    "name": "Poha",
+    "ingredients": ["flattened rice", "onions", "peanuts", "mustard seeds", "turmeric"],
+    "instructions": "Saute poha with onions, peanuts, and spices."
+  },
+  {
+    "name": "Chana Masala",
+    "ingredients": ["chickpeas", "onions", "tomatoes", "garam masala", "coriander"],
+    "instructions": "Cook chickpeas in spiced onion-tomato gravy."
+  },
+  {
+    "name": "Fish Curry",
+    "ingredients": ["fish", "coconut milk", "onions", "curry leaves", "turmeric", "tamarind"],
+    "instructions": "Simmer fish in coconut-based spicy curry."
+  },
+  {
+    "name": "Jalebi",
+    "ingredients": ["flour", "yogurt", "sugar", "saffron", "ghee"],
+    "instructions": "Fry batter spirals and soak in sugar syrup."
+  },
+  {
+    "name": "Vada Pav",
+    "ingredients": ["potatoes", "chickpea flour", "bread", "mustard seeds", "curry leaves"],
+    "instructions": "Fry potato fritters and serve in bread bun with chutney."
+  },
+  {
+    "name": "Baingan Bharta",
+    "ingredients": ["eggplant", "onions", "tomatoes", "garlic", "ginger", "green chilies"],
+    "instructions": "Roast eggplant and mix with sauteed onions and tomatoes."
+  },
+  {
+    "name": "Malai Kofta",
+    "ingredients": ["paneer", "potatoes", "cream", "tomatoes", "cashews", "spices"],
+    "instructions": "Fry kofta balls and simmer in creamy gravy."
+  },
+  {
+    "name": "Tandoori Chicken",
+    "ingredients": ["chicken", "yogurt", "ginger", "garlic", "tandoori masala"],
+    "instructions": "Marinate chicken and grill until charred."
+  },
+  {
+    "name": "Kheer",
+    "ingredients": ["rice", "milk", "sugar", "cardamom", "nuts"],
+    "instructions": "Cook rice in milk until creamy, add sugar and nuts."
+  },
+  {
+    "name": "Pakora",
+    "ingredients": ["vegetables", "chickpea flour", "onions", "spices", "oil"],
+    "instructions": "Dip veggies in batter and deep-fry until golden."
+  },
+  {
+    "name": "Rajma",
+    "ingredients": ["kidney beans", "onions", "tomatoes", "garam masala", "ginger"],
+    "instructions": "Cook beans in spiced onion-tomato sauce."
+  },
+  {
+    "name": "Mutton Curry",
+    "ingredients": ["mutton", "onions", "yogurt", "coriander", "turmeric"],
+    "instructions": "Braise mutton in yogurt and spice gravy."
+  },
+  {
+    "name": "Halwa",
+    "ingredients": ["semolina", "ghee", "sugar", "cardamom", "nuts"],
+    "instructions": "Roast semolina in ghee, add sugar syrup."
+  },
+  {
+    "name": "Bhel Puri",
+    "ingredients": ["puffed rice", "onions", "tomatoes", "chutney", "sev"],
+    "instructions": "Mix puffed rice with veggies and chutneys."
+  },
+  {
+    "name": "Aloo Paratha",
+    "ingredients": ["wheat flour", "potatoes", "onions", "cumin", "ghee"],
+    "instructions": "Stuff potato filling in dough and cook on griddle."
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "ingredients": ["chicken", "tomatoes", "cream", "garam masala", "yogurt"],
+    "instructions": "Grill chicken and toss in tomato-cream sauce."
+  },
+  {
+    "name": "Ras Malai",
+    "ingredients": ["milk", "sugar", "cardamom", "saffron", "pistachios"],
+    "instructions": "Soak cheese balls in thickened milk syrup."
+  },
+  {
+    "name": "Chaat",
+    "ingredients": ["potatoes", "chickpeas", "yogurt", "chutney", "papdi"],
+    "instructions": "Assemble with potatoes, yogurt, and tangy chutneys."
+  },
+  {
+    "name": "Bhindi Masala",
+    "ingredients": ["okra", "onions", "tomatoes", "coriander", "turmeric"],
+    "instructions": "Stir-fry okra with onions and spices."
+  },
+  {
+    "name": "Egg Curry",
+    "ingredients": ["eggs", "onions", "tomatoes", "coconut milk", "spices"],
+    "instructions": "Boil eggs and simmer in coconut curry."
+  },
+  {
+    "name": "Ladoo",
+    "ingredients": ["besan", "ghee", "sugar", "cardamom"],
+    "instructions": "Roast besan in ghee, mix with sugar."
+  },
+  {
+    "name": "Pani Puri",
+    "ingredients": ["puri", "potatoes", "chickpeas", "tamarind water", "mint"],
+    "instructions": "Fill puris with filling and spiced water."
+  },
+  {
+    "name": "Methi Chicken",
+    "ingredients": ["chicken", "fenugreek leaves", "yogurt", "onions", "garlic"],
+    "instructions": "Cook chicken with fresh fenugreek and yogurt."
+  },
+  {
+    "name": "Prawn Masala",
+    "ingredients": ["prawns", "onions", "tomatoes", "coconut", "spices"],
+    "instructions": "Saute prawns in coconut-tomato masala."
+  },
+  {
+    "name": "Barfi",
+    "ingredients": ["milk powder", "sugar", "ghee", "nuts"],
+    "instructions": "Cook milk powder with sugar into fudge."
+  },
+  {
+    "name": "Dhokla",
+    "ingredients": ["rice", "chickpea flour", "yogurt", "mustard seeds"],
+    "instructions": "Steam fermented batter and temper with mustard."
+  },
+  {
+    "name": "Kadai Paneer",
+    "ingredients": ["paneer", "bell peppers", "onions", "tomatoes", "kadai masala"],
+    "instructions": "Stir-fry paneer and peppers in spice mix."
+  },
+  {
+    "name": "Lamb Biryani",
+    "ingredients": ["lamb", "basmati rice", "saffron", "yogurt", "fried onions"],
+    "instructions": "Layer spiced lamb and rice, dum cook."
+  },
+  {
+    "name": "Shrikhand",
+    "ingredients": ["yogurt", "sugar", "cardamom", "saffron", "nuts"],
+    "instructions": "Hang yogurt, mix with sugar and flavors."
+  },
+  {
+    "name": "Aloo Tikki",
+    "ingredients": ["potatoes", "bread crumbs", "onions", "chutney", "yogurt"],
+    "instructions": "Fry potato patties and top with chutneys."
+  },
+  {
+    "name": "Matar Paneer",
+    "ingredients": ["paneer", "peas", "tomatoes", "onions", "garam masala"],
+    "instructions": "Cook peas and paneer in tomato gravy."
+  },
+  {
+    "name": "Goan Fish Curry",
+    "ingredients": ["fish", "coconut", "tamarind", "red chilies", "ginger"],
+    "instructions": "Grind coconut masala and simmer fish."
+  },
+  {
+    "name": "Pedha",
+    "ingredients": ["milk", "sugar", "ghee", "cardamom"],
+    "instructions": "Reduce milk to dough and shape into balls."
+  },
+  {
+    "name": "Uttapam",
+    "ingredients": ["rice", "urad dal", "onions", "tomatoes", "chilies"],
+    "instructions": "Spread thick batter with veggie toppings."
+  },
+  {
+    "name": "Sarson da Saag",
+    "ingredients": ["mustard greens", "spinach", "ginger", "butter", "maize flour"],
+    "instructions": "Cook greens with spices and serve with makki ki roti."
+  },
+  {
+    "name": "Keema Matar",
+    "ingredients": ["minced meat", "peas", "onions", "tomatoes", "garam masala"],
+    "instructions": "Cook keema with peas in onion gravy."
+  },
+  {
+    "name": "Phirni",
+    "ingredients": ["rice", "milk", "sugar", "rose water", "nuts"],
+    "instructions": "Cook ground rice in milk, set in bowls."
+  },
+  {
+    "name": "Kachori",
+    "ingredients": ["flour", "moong dal", "spices", "oil"],
+    "instructions": "Fill spiced dal in dough and deep-fry."
+  },
+  {
+    "name": "Lauki Kofta",
+    "ingredients": ["bottle gourd", "chickpea flour", "yogurt", "spices"],
+    "instructions": "Fry gourd koftas in yogurt gravy."
+  },
+  {
+    "name": "Andhra Chicken Curry",
+    "ingredients": ["chicken", "onions", "coconut", "red chilies", "curry leaves"],
+    "instructions": "Spicy curry with coconut and tamarind."
+  },
+  {
+    "name": "Mysore Pak",
+    "ingredients": ["besan", "ghee", "sugar", "cardamom"],
+    "instructions": "Cook besan in ghee-sugar syrup to fudge."
+  },
+  {
+    "name": "Rava Idli",
+    "ingredients": ["semolina", "yogurt", "mustard seeds", "carrots"],
+    "instructions": "Mix semolina with yogurt and steam."
+  },
+  {
+    "name": "Kerala Beef Fry",
+    "ingredients": ["beef", "coconut slices", "onions", "spices", "curry leaves"],
+    "instructions": "Dry-fry beef with coconut and spices."
+  },
+  {
+    "name": "Sandesh",
+    "ingredients": ["paneer", "sugar", "cardamom", "saffron"],
+    "instructions": "Knead paneer with sugar into soft sweets."
+  },
+  {
+    "name": "Mirchi Bajji",
+    "ingredients": ["green chilies", "chickpea flour", "onions", "tamarind"],
+    "instructions": "Stuff and fry chilies in batter."
+  },
+  {
+    "name": "Arbi Masala",
+    "ingredients": ["taro root", "onions", "tomatoes", "yogurt", "spices"],
+    "instructions": "Cook arbi in yogurt-based masala."
+  },
+  {
+    "name": "Hyderabadi Haleem",
+    "ingredients": ["wheat", "lentils", "meat", "nuts", "fried onions"],
+    "instructions": "Slow-cook porridge with meat and spices."
+  },
+  {
+    "name": "Rasmali",
+    "ingredients": ["chenna", "milk", "sugar", "saffron"],
+    "instructions": "Soak rasgulla in thickened milk."
+  },
+  {
+    "name": "Papdi Chaat",
+    "ingredients": ["papdi", "potatoes", "yogurt", "chutney", "sev"],
+    "instructions": "Layer papdi with fillings and toppings."
+  },
+  {
+    "name": "Shimla Mirch Masala",
+    "ingredients": ["bell peppers", "onions", "tomatoes", "paneer", "spices"],
+    "instructions": "Stuff and cook peppers with masala."
+  },
+  {
+    "name": "Parsi Dhansak",
+    "ingredients": ["lentils", "meat", "vegetables", "onions", "spices"],
+    "instructions": "Cook lentils and meat with veggies."
+  },
+  {
+    "name": "Kesari",
+    "ingredients": ["semolina", "sugar", "ghee", "saffron", "nuts"],
+    "instructions": "Roast semolina and cook with saffron syrup."
+  },
+  {
+    "name": "Sev Puri",
+    "ingredients": ["puri", "onions", "tomatoes", "sev", "chutney"],
+    "instructions": "Top puris with veggies and sev."
+  },
+  {
+    "name": "Karela Sabzi",
+    "ingredients": ["bitter gourd", "onions", "spices", "jaggery"],
+    "instructions": "Stuff and fry bitter gourd with spices."
+  },
+  {
+    "name": "Chettinad Chicken",
+    "ingredients": ["chicken", "coconut", "pepper", "fennel", "curry leaves"],
+    "instructions": "Spicy South Indian chicken curry."
+  },
+  {
+    "name": "Coconut Ladoo",
+    "ingredients": ["coconut", "condensed milk", "cardamom"],
+    "instructions": "Mix coconut with milk and shape."
+  },
+  {
+    "name": "Medu Vada",
+    "ingredients": ["urad dal", "onions", "ginger", "curry leaves"],
+    "instructions": "Fry lentil doughnuts until crisp."
+  },
+  {
+    "name": "Gobi Manchurian",
+    "ingredients": ["cauliflower", "cornstarch", "soy sauce", "garlic", "ginger"],
+    "instructions": "Fry cauliflower and toss in Indo-Chinese sauce."
+  },
+  {
+    "name": "Nawabi Biryani",
+    "ingredients": ["chicken", "rice", "saffron", "kewra water", "nuts"],
+    "instructions": "Aromatic layered biryani with royal spices."
+  },
+  {
+    "name": "Badam Halwa",
+    "ingredients": ["almonds", "milk", "sugar", "ghee", "cardamom"],
+    "instructions": "Grind almonds and cook into thick halwa."
+  },
+  {
+    "name": "Ragda Pattice",
+    "ingredients": ["white peas", "potatoes", "onions", "chutney", "sev"],
+    "instructions": "Serve potato patties with pea curry and toppings."
+  },
+  {
+    "name": "Stuffed Mirchi",
+    "ingredients": ["green chilies", "potatoes", "spices", "chickpea flour"],
+    "instructions": "Stuff chilies with potato masala and fry."
+  },
+  {
+    "name": "Malabar Parotta",
+    "ingredients": ["flour", "oil", "salt", "water"],
+    "instructions": "Layered flaky bread cooked on tawa."
+  },
+  {
+    "name": "Egg Bhurji",
+    "ingredients": ["eggs", "onions", "tomatoes", "green chilies", "spices"],
+    "instructions": "Scramble eggs with onions and tomatoes."
+  },
+  {
+    "name": "Mango Lassi",
+    "ingredients": ["mango", "yogurt", "sugar", "cardamom", "milk"],
+    "instructions": "Blend mango with yogurt for refreshing drink."  
+  }
+]
